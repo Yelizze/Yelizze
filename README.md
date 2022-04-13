@@ -1,3 +1,5 @@
+NEW GITHUB 2022 !
+
 - 👋 Hi, I’m @Yelizze
 - 👀 I’m interested in web developement & blockchain developement.
 - 🌱 I’m currently learning basics 
